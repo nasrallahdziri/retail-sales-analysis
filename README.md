@@ -17,7 +17,7 @@ An end-to-end Business Intelligence project analyzing retail sales data.
 ## 🔍 Key Findings
 - **Electronics** generated the highest revenue among all categories
 - **25–34** age group is the biggest spending segment
-- Sales peaked in May of 2023
+- Sales peaked in **May** of 2023
 - Average order value is **$456**
 
 ## 📊 Dashboard Preview
