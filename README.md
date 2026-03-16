@@ -21,4 +21,4 @@ An end-to-end Business Intelligence project analyzing retail sales data.
 - Average order value is **$456**
 
 ## 📊 Dashboard Preview
-![Dashboard](visuals/dashboard_screenshot.png)```
+![Dashboard](visuals/power_bi_analysis.png)
